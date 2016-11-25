@@ -840,7 +840,7 @@
 	}
 }());
 
-angular.module('ng-fastclick', []).run(function() {
+angular.module('angular-fastclick', []).run(function() {
   FastClick.attach(document.body)
 });
 
