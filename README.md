@@ -1,7 +1,7 @@
 # angular-fastclick
 
 
-Why does this project even exist? Well [ng-fastclick](https://github.com/8bitDesigner/ng-fastclick) is only available in bower and not in npm and I really hate having to use bower and I also can't be a55ed to raise an issue as ng-fastclick repo has not had any updates in 24 Months.  
+Why does this project even exist? Well, for a start [ng-fastclick](https://github.com/8bitDesigner/ng-fastclick) is only available in bower and I really hate having to use bower and I also can't be a55ed to raise an issue as the ng-fastclick repo has not had any updates in 24 Months.  
 
 I do use fastclick currently in some of my hybrid mobile projects as it's really quite performance orientated, I also wanted easy access to it via my build pipes so I added it to npm for everyone to use as well, enjoy!
 
