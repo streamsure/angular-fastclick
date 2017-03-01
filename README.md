@@ -1,6 +1,13 @@
 # angular-fastclick
 
-Why? Because it's not in npm and I hate bower and can't be assed to raise an issue as ng-fastclick has not had any updates in over a year but I use it currently in some projects so want easy access to it via my build pipes.
+### Update
+Another reason to use this wrapper is that the Angular team have deprecated: (since v1.5.0) their implementation and advise all developers to use fastclick this project helps you do just that.
+
+The [ngClick](https://docs.angularjs.org/api/ngTouch/directive/ngClick) directive is now deprecated and disabled by default and the directive will receive no further support and might even be removed from future releases. If you need the directive, you can enable it with the $touchProvider#ngClickOverrideEnabled function.
+
+To learn more about the 300ms delay, this [Telerik](http://developer.telerik.com/featured/300-ms-click-delay-ios-8/) article gives a good overview.
+
+Why does this project even exist? Well it's not in npm and I hate bower and can't be a55ed to raise an issue as ng-fastclick repo has not had any updates in over a year but I use it currently in some hybrid projects so wanted easy access to it via my build pipes.
 
 
 
