@@ -1,14 +1,14 @@
 {
   "name": "angular-fastclick",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "scripts": {
     "build": "gulp"
   },
   "license": "MIT",
   "dependencies": {
     "fastclick": "^1.0.6",
-    "gulp": "^3.8.7",
-    "gulp-concat": "^2.3.4",
-    "gulp-uglify": "^0.3.1"
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^0.3.2"
   }
 }
