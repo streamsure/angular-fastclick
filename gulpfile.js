@@ -20,5 +20,4 @@ gulp.task('minified', function() {
          .pipe(gulp.dest('.'))
 })
 
-gulp.task('default', ['build', 'minified'])
-
+gulp.task('default', gulp.series('build', 'minified'))
