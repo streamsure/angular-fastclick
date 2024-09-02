@@ -1,6 +1,6 @@
 # angular-fastclick
-
-This package is still maintained for security patches use it where you need to.
+Google has totally dropped support for AngularJS, please stop using it!
+This is most likely the last security fix this package will get.
 
 ## angular-fastclick
 
